@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+layout: post
 ---
 
 ## Some Blogs and Podcasts Worth Checking Out in 2014
