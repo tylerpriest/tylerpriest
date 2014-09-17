@@ -1,7 +1,8 @@
-Prose.io for markdown
-Lanyon,Poole,Jekyll for Design
-Github Pages for Hosting
-iwantmyname.com for Hosting name
+
+- Prose.io for markdown
+- Lanyon,Poole,Jekyll for Design
+- Github Pages for Hosting
+- iwantmyname.com for Hosting name
 
 
 
