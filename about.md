@@ -4,7 +4,4 @@ title: About
 published: true
 ---
 
-### About me
-
-
-
+Kiwi travelling around South East Asia, based in Singapore
