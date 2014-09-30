@@ -3,7 +3,7 @@ published: true
 layout: post
 ---
 
-## A New Post
+## Installing Ruby on Rails
 
 For this Ruby on Rails build you will get Ruby through Rbenv, Rails, OhMyZsh!, Git, iTerm, Sublime, Homebrew & Command Line Tools 
  
