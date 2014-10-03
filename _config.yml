@@ -22,6 +22,3 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/tylerpriest/tylerpriest.github.com
-
-prose:
-  media: 'media'
