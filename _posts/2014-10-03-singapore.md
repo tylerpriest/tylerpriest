@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 
 I have been in Singapore for close to 3 weeks not doing much just hanging out with my brothers at home and at the office, I can see myself moving here in the future maybe next year for now for 2014 I will just visit.
