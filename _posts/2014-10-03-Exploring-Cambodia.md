@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Cambodia is the next awesome place I am going, flying into Siem Reap from Singapore after visiting my brothers, spending a few days there exploring Ankor Wat and Siem Reap itself.
