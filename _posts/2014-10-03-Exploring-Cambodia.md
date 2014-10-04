@@ -13,4 +13,4 @@ More Adventurin!
 
 Next stop after this is back to Singapore or Vietnam if I decide on Vietnam I need to get the Visa sorted soon.
 
-![Tyler_angle.jpg](/_posts/Tyler_angle.jpg)
+![Tyler_angle.jpg](/media/Tyler_angle.jpg)
