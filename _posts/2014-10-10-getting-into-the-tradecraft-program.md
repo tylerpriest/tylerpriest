@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 I have had an interview one of the [TradeCraft](www.tradecrafted.com) founders Misha which I think went really well, I have another interview tomorrow with Graham the lead Growth guy at Tradecraft.
