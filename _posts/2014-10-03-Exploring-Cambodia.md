@@ -13,4 +13,6 @@ More Adventurin!
 
 Next stop after this is back to Singapore or Vietnam if I decide on Vietnam I need to get the Visa sorted soon.
 
+![Cambodia.jpg](/media/Cambodia.jpg)
+
 ![Cambodia](/https://lh6.googleusercontent.com/-_1-k7X-WcUs/VDdSvLl4-_I/AAAAAAABojI/4Yv2zGFWz9I/w1114-h628-no/IMG_20141009_170017.jpg)
