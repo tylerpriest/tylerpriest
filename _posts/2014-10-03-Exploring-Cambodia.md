@@ -3,8 +3,6 @@ published: true
 layout: post
 ---
 
-![Cambodia](/https://lh6.googleusercontent.com/-_1-k7X-WcUs/VDdSvLl4-_I/AAAAAAABojI/4Yv2zGFWz9I/w1114-h628-no/IMG_20141009_170017.jpg)
-
 Cambodia is the next awesome place I am going, flying into Siem Reap from Singapore after visiting my brothers, spending a few days there exploring Ankor Wat and Siem Reap itself.
 
 My friend Chris who I met in CX hostel, Bali has recommended I stay at Mad Monkey's so far his recommendations around SE Asia have been good so will definitely give them a go there are three, one in Siem Reap in Phnom Penh and Kampot the 3 places I plan on going so that is great if they are as good as he says I have my accomodation sorted ! If not well I am tempted to stay with some locals and immerse my self in the culture a bit.
@@ -14,3 +12,5 @@ Kampot has a kitesurfing school so very  excited to go there. My knowledge of Ca
 More Adventurin!
 
 Next stop after this is back to Singapore or Vietnam if I decide on Vietnam I need to get the Visa sorted soon.
+
+![Cambodia](/https://lh6.googleusercontent.com/-_1-k7X-WcUs/VDdSvLl4-_I/AAAAAAABojI/4Yv2zGFWz9I/w1114-h628-no/IMG_20141009_170017.jpg)
