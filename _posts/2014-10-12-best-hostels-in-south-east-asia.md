@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 A list of the best hostels I stayed at in the select few places I went to in South East Asia
